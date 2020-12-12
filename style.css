@@ -1,0 +1,31 @@
+* {
+margin: 0px;
+padding: 0px;
+list-style: none;
+text-decoration: none;
+}
+
+nav {
+background: lightgoldenrodyellow;
+height: 100px;
+width: 100%; 
+
+}
+.logo-container {
+ font-family: 'Sawarabi Mincho', sans-serif;
+ float: left;
+ line-height: 80px;
+}
+.navigation {
+  float: right;
+}
+.navigation ul {
+  line-height: 80px;
+}
+.navigation ul li {
+display: inline-block;
+}
+.navigation ul li a {
+  padding: 0px 5px;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
